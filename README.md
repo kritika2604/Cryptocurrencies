@@ -1,7 +1,7 @@
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/94858846/167768627-591b8067-c5d7-4dd7-902f-35ea320d5d48.png">
 
-# Cryptocurrencies
-Using unsupervised machine learning 
+# Cryptocurrencies ##Unsupervised machine learning
+
 
 ## Purpose:
 
