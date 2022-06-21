@@ -25,7 +25,7 @@ Following analyses were performed:
 
 ## Results of analyses: 
     
-|**1. Preprocessing the Data for PCA**  |  |
+|**1. Preprocessing the Data for PCA**    |
 | ------------- | ----------------------- |
 | Null values are handled  | <img width="282" alt="image" src="https://user-images.githubusercontent.com/94858846/167759610-a29ad2c1-783a-4f49-bb0c-13329aa59bbc.png">  |
 | Only numerical data is used  | <img width="327" alt="image" src="https://user-images.githubusercontent.com/94858846/167759929-7ee5057a-ec7e-40bf-8273-99d421ca96d3.png">  |
